@@ -1,0 +1,26 @@
+[
+    {'role': 'system', 'content': 'You are a helpful assistant.'},
+    {'role': 'user', 'content': 'weather in newyork and 1 + 120'},
+    {
+        'content': None,
+        'refusal': None,
+        'role': 'assistant',
+        'annotations': [],
+        'audio': None,
+        'function_call': None,
+        'tool_calls': [
+            {
+                'id': 'call_zBkaGCefnhMVVPKbzNld1Gb4',
+                'function': {'arguments': '{"location": "newyork"}', 'name': 'fake_weather_api'},
+                'type': 'function'
+            },
+            {'id': 'call_0sDUOXRosbZ1BSkjP1HTeGuM', 'function': {'arguments': '{"a": 1, "b": 120}', 'name': 'weird_add'}, 'type': 'function'}
+        ]
+    },
+    {
+        'role': 'tool',
+        'content': 'Tool call executed. Result: The weather in newyork is sunny and warm.',
+        'tool_call_id': 'call_zBkaGCefnhMVVPKbzNld1Gb4'
+    },
+    {'role': 'tool', 'content': 'Tool call executed. Result: 241', 'tool_call_id': 'call_0sDUOXRosbZ1BSkjP1HTeGuM'}
+]
