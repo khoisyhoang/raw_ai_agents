@@ -18,8 +18,6 @@ llm = ChatOpenAI(
     temperature=0
 )
 
-
-
 # for i in browser_tools:
 #     print(i.name)
 #     print(i.description)
@@ -27,14 +25,15 @@ llm = ChatOpenAI(
 class State(TypedDict):
     messages: Annotated[list, add]
 
-async def get_tools():
-    client = MultiServerMCPClient({
+client = MultiServerMCPClient({
         "playwright": {
             "transport": "stdio",
             "command": "npx",
-            "args": ["-y", "@playwright/mcp@latest", "--isolated"],
+            "args": ["-y", "@playwright/mcp@latest"],
         }
     })
+
+async def get_tools(): 
     return await client.get_tools()
 
 
@@ -43,7 +42,7 @@ async def chatbot(state: State):
     llm_response = await browser_llm.ainvoke(state["messages"])
     print("contentt: ", llm_response.content)
     print("tool calls: ", llm_response.tool_calls)
-    print("this is our message lol: ", state["messages"])
+
     return {
         "messages": [llm_response]
     }
@@ -74,16 +73,15 @@ agent.add_conditional_edges(
     }
 )
 agent.add_edge("tools", "chatbot")
-agent.add_edge("chatbot", END)
 graph = agent.compile()
 
 
 
 async def main():
     res = await graph.ainvoke({"messages": [
-        HumanMessage(content="Hello! I want to know the latest news about https://cintrifusecapital.com/.")
+        HumanMessage(content="what do we have at this webpage https://www.ycombinator.com/")
     ]})
-    print(res)
+    # print(res)
     return res
 
 asyncio.run(main())

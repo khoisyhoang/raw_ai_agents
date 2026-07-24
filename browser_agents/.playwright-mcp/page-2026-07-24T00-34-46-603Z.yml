@@ -1,0 +1,534 @@
+- generic [ref=e4]:
+  - generic [ref=e6]:
+    - link "Apply for Fall 2026 by July 27" [ref=e7] [cursor=pointer]:
+      - /url: /apply
+    - banner [ref=e11]:
+      - navigation [ref=e12]:
+        - link [ref=e13] [cursor=pointer]:
+          - /url: /
+          - img "Y Combinator" [ref=e14]
+        - button "Open menu" [ref=e15] [cursor=pointer]
+  - generic [ref=e23]:
+    - generic [ref=e25]:
+      - text: YC turns builders
+      - generic [ref=e26]: into formidable founders
+      - superscript [ref=e27]: "[1]"
+    - generic [ref=e31]:
+      - generic [ref=e38] [cursor=pointer]:
+        - generic [ref=e39]: Airbnb
+        - generic [ref=e40]:
+          - paragraph [ref=e41]: Brian, Joe, and Nate did YC in W09.
+          - paragraph [ref=e42]: Airbnb went public in 2020 at an over $100B valuation.
+        - generic [ref=e44]:
+          - generic [ref=e45]: YC
+          - generic [ref=e50]: Now
+      - generic [ref=e57] [cursor=pointer]:
+        - generic [ref=e58]: OpenAI
+        - generic [ref=e59]:
+          - paragraph [ref=e60]: Sam was part of YC's inaugural batch in S05 and founded OpenAI as YC Research in 2015.
+          - paragraph [ref=e61]: Sam built OpenAI into a $500B company.
+        - generic [ref=e63]:
+          - generic [ref=e64]: YC
+          - generic [ref=e69]: Now
+      - generic [ref=e76] [cursor=pointer]:
+        - generic [ref=e77]: Stripe
+        - generic [ref=e78]:
+          - paragraph [ref=e79]: The Collison brothers did YC twice—first in W07 and then in S09, when they started Stripe.
+          - paragraph [ref=e80]: Stripe is now the internet’s $107B payments backbone.
+        - generic [ref=e82]:
+          - generic [ref=e83]: YC
+          - generic [ref=e88]: Now
+      - generic [ref=e95] [cursor=pointer]:
+        - generic [ref=e96]: Coinbase
+        - generic [ref=e97]:
+          - paragraph [ref=e98]: Fred and Brian met on Reddit and did YC in S12.
+          - paragraph [ref=e99]: Coinbase went public in 2021 at a $86B valuation.
+        - generic [ref=e101]:
+          - generic [ref=e102]: YC
+          - generic [ref=e107]: Now
+      - generic [ref=e114] [cursor=pointer]:
+        - generic [ref=e115]: DoorDash
+        - generic [ref=e116]:
+          - paragraph [ref=e117]: Andy, Stanley, Tony, and Evan did YC in S13.
+          - paragraph [ref=e118]: DoorDash went public in 2020 at a valuation of $39B.
+        - generic [ref=e120]:
+          - generic [ref=e121]: YC
+          - generic [ref=e126]: Now
+      - generic [ref=e133] [cursor=pointer]:
+        - generic [ref=e134]: Scale AI
+        - generic [ref=e135]:
+          - paragraph [ref=e136]: Alexandr and Lucy did YC S16 and pivoted during the batch.
+          - paragraph [ref=e137]: In 2025, Meta acquired 49% of Scale for over $14B.
+        - generic [ref=e139]:
+          - generic [ref=e140]: YC
+          - generic [ref=e145]: Now
+      - generic [ref=e152] [cursor=pointer]:
+        - generic [ref=e153]: Dropbox
+        - generic [ref=e154]:
+          - paragraph [ref=e155]: Arash and Drew started Dropbox at MIT and did YC in S07.
+          - paragraph [ref=e156]: Dropbox had the biggest tech IPO of 2018 at a $9B valuation.
+        - generic [ref=e158]:
+          - generic [ref=e159]: YC
+          - generic [ref=e164]: Now
+      - generic [ref=e171] [cursor=pointer]:
+        - generic [ref=e172]: Reddit
+        - generic [ref=e173]:
+          - paragraph [ref=e174]: Alexis and Steve were in the inaugural YC batch in S05.
+          - paragraph [ref=e175]: Reddit went public in 2024 at a $6.4B valuation.
+        - generic [ref=e177]:
+          - generic [ref=e178]: YC
+          - generic [ref=e183]: Now
+      - generic [ref=e190] [cursor=pointer]:
+        - generic [ref=e191]: Instacart
+        - generic [ref=e192]:
+          - paragraph [ref=e193]: Apoorva, Max, and Brandon did YC in S12.
+          - paragraph [ref=e194]: Instacart went public in 2023 at a $10B valuation.
+        - generic [ref=e196]:
+          - generic [ref=e197]: YC
+          - generic [ref=e202]: Now
+      - generic [ref=e209] [cursor=pointer]:
+        - generic [ref=e210]: GitLab
+        - generic [ref=e211]:
+          - paragraph [ref=e212]: Sid and Dmytro did YC in S14.
+          - paragraph [ref=e213]: GitLab went public in 2021 at an $11B valuation.
+        - generic [ref=e215]:
+          - generic [ref=e216]: YC
+          - generic [ref=e221]: Now
+      - generic [ref=e228] [cursor=pointer]:
+        - generic [ref=e229]: Kalshi
+        - generic [ref=e230]:
+          - paragraph [ref=e231]: Tarek and Luana did YC in W19.
+          - paragraph [ref=e232]: Kalshi reached an $11B valuation in 2025.
+        - generic [ref=e234]:
+          - generic [ref=e235]: YC
+          - generic [ref=e240]: Now
+      - generic [ref=e247] [cursor=pointer]:
+        - generic [ref=e248]: Replit
+        - generic [ref=e249]:
+          - paragraph [ref=e250]: Haya and Amjad interviewing for the YC W18 batch.
+          - paragraph [ref=e251]: Replit became a leading AI coding platform valued at over $9B.
+        - generic [ref=e253]:
+          - generic [ref=e254]: YC
+          - generic [ref=e259]: Now
+      - generic [ref=e266] [cursor=pointer]:
+        - generic [ref=e267]: Twitch
+        - generic [ref=e268]:
+          - paragraph [ref=e269]: Michael, Justin, Kyle, and Emmett in YC W07.
+          - paragraph [ref=e270]: Twitch was acquired by Amazon for nearly $1B.
+        - generic [ref=e272]:
+          - generic [ref=e273]: YC
+          - generic [ref=e278]: Now
+    - paragraph [ref=e281]: "[1] “A formidable person is one who seems like they’ll get what they want, regardless of whatever obstacles are in the way.” — Paul Graham"
+  - generic [ref=e285]:
+    - generic [ref=e286]:
+      - paragraph [ref=e287]: In 2005, Y Combinator developed a new model of startup funding. Four times a year we invest $500k in a select group of startups. They move to San Francisco for three months, where we work intensively with them to get the company into the best possible shape, before they present to a large audience of investors on Demo Day.
+      - paragraph [ref=e288]: But YC doesn’t end on Demo Day. We and the YC alumni network continue to help founders for the life of their company, and beyond.
+    - generic [ref=e289]:
+      - img "Founder" [ref=e290]
+      - img "Founder" [ref=e291]
+      - img "Founder" [ref=e292]
+      - img "Founder" [ref=e293]
+      - img "Founder" [ref=e294]
+    - generic [ref=e295]:
+      - heading "In Founders’ Words" [level=2] [ref=e296]
+      - generic [ref=e300]:
+        - generic [ref=e301]:
+          - text: YC compresses months of growth into weeks.
+          - button [ref=e302] [cursor=pointer]:
+            - img "Aman Mishra" [ref=e303]
+          - text: The sense of urgency is so infectious among founders that it becomes the most productive period in most people’s lives.
+          - button [ref=e304] [cursor=pointer]:
+            - img "Adith Reddi" [ref=e305]
+        - generic [ref=e306]:
+          - text: It’s a community of founders that you can’t find anywhere else.
+          - button [ref=e307] [cursor=pointer]:
+            - img "Bishesh Khadka" [ref=e308]
+          - text: It feels like having the entire world at your back—from Partners to batchmates.
+          - button [ref=e309] [cursor=pointer]:
+            - img "Justin Lee" [ref=e310]
+        - generic [ref=e311]:
+          - text: Being surrounded by the top 1% of founders in the world just completely resets the bar.
+          - button [ref=e312] [cursor=pointer]:
+            - img "Fern Morrison" [ref=e313]
+          - text: You leave with a completely new sense of how fast ‘fast’ can be.
+          - button [ref=e314] [cursor=pointer]:
+            - img "Aman Mishra" [ref=e315]
+  - generic [ref=e316]:
+    - generic [ref=e317]:
+      - heading "Be in the room with …" [level=2] [ref=e318]
+      - generic [ref=e319]:
+        - generic [ref=e320]:
+          - generic:
+            - generic:
+              - generic: Brian Chesky
+              - generic: Airbnb
+        - generic [ref=e322]:
+          - generic:
+            - generic:
+              - generic: Sam Altman
+              - generic: OpenAI
+        - generic [ref=e324]:
+          - generic:
+            - generic:
+              - generic: Greg Brockman
+              - generic: OpenAI
+        - generic [ref=e326]:
+          - generic:
+            - generic:
+              - generic: Michael Truell
+              - generic: Cursor
+        - generic [ref=e328]:
+          - generic:
+            - generic:
+              - generic: Paul Graham
+              - generic: Y Combinator
+        - generic [ref=e330]:
+          - generic:
+            - generic:
+              - generic: Guillermo Rauch
+              - generic: Vercel
+        - generic [ref=e332]:
+          - generic:
+            - generic:
+              - generic: Dylan Field
+              - generic: Figma
+        - generic [ref=e334]:
+          - generic:
+            - generic:
+              - generic: Emmett Shear
+              - generic: Twitch
+        - generic [ref=e336]:
+          - generic:
+            - generic:
+              - generic: Tony Xu
+              - generic: DoorDash
+    - generic [ref=e338]:
+      - heading "All partners were YC founders first" [level=2] [ref=e339]
+      - generic [ref=e340]:
+        - link "Garry Tan Posterous, S08 Co-founder of Posterous (acquired by Twitter) and Initialized Capital. Early engineer at Palantir, designed company logo." [ref=e342] [cursor=pointer]:
+          - /url: /people/garry-tan
+          - generic [ref=e347]:
+            - generic [ref=e348]:
+              - generic [ref=e349]: Garry Tan
+              - generic [ref=e350]: Posterous, S08
+            - paragraph [ref=e351]: Co-founder of Posterous (acquired by Twitter) and Initialized Capital. Early engineer at Palantir, designed company logo.
+        - link "Harj Taggar Auctomatic, W07 Co-founder and CEO of Triplebyte (acquired by Karat) and Auctomatic (acquired by Live Current Media). Graduated from Oxford." [ref=e353] [cursor=pointer]:
+          - /url: /people/harj-taggar
+          - generic [ref=e358]:
+            - generic [ref=e359]:
+              - generic [ref=e360]: Harj Taggar
+              - generic [ref=e361]: Auctomatic, W07
+            - paragraph [ref=e362]: Co-founder and CEO of Triplebyte (acquired by Karat) and Auctomatic (acquired by Live Current Media). Graduated from Oxford.
+        - link "Jared Friedman Scribd, S06 Co-founder of Scribd, one of the top 100 sites on the web. Harvard CS dropout." [ref=e364] [cursor=pointer]:
+          - /url: /people/jared-friedman
+          - generic [ref=e369]:
+            - generic [ref=e370]:
+              - generic [ref=e371]: Jared Friedman
+              - generic [ref=e372]: Scribd, S06
+            - paragraph [ref=e373]: Co-founder of Scribd, one of the top 100 sites on the web. Harvard CS dropout.
+        - link "Aaron Epstein Creative Market, W10 Co-founder of Creative Market, generating over $100M in sales for independent creators worldwide." [ref=e375] [cursor=pointer]:
+          - /url: /people/aaron-epstein
+          - generic [ref=e380]:
+            - generic [ref=e381]:
+              - generic [ref=e382]: Aaron Epstein
+              - generic [ref=e383]: Creative Market, W10
+            - paragraph [ref=e384]: Co-founder of Creative Market, generating over $100M in sales for independent creators worldwide.
+        - link "Diana Hu Escher Reality, S17 Co-founder and CTO of Escher Reality (acquired by Niantic). Shipped AR tech for Pokémon GO to 100M+ users and grew up in Chile." [ref=e386] [cursor=pointer]:
+          - /url: /people/diana-hu
+          - generic [ref=e391]:
+            - generic [ref=e392]:
+              - generic [ref=e393]: Diana Hu
+              - generic [ref=e394]: Escher Reality, S17
+            - paragraph [ref=e395]: Co-founder and CTO of Escher Reality (acquired by Niantic). Shipped AR tech for Pokémon GO to 100M+ users and grew up in Chile.
+        - link "Gustaf Alströmer Heysan, W07 Led Growth at Airbnb for 4.5 years. Co-founder of Heysan. Previously Head of Growth at Voxer." [ref=e397] [cursor=pointer]:
+          - /url: /people/gustaf-alstromer
+          - generic [ref=e402]:
+            - generic [ref=e403]:
+              - generic [ref=e404]: Gustaf Alströmer
+              - generic [ref=e405]: Heysan, W07
+            - paragraph [ref=e406]: Led Growth at Airbnb for 4.5 years. Co-founder of Heysan. Previously Head of Growth at Voxer.
+        - link "Nicolas Dessaigne Algolia, W14 Co-founder of Algolia, a Search API used by millions of developers. PhD in Computer Science." [ref=e408] [cursor=pointer]:
+          - /url: /people/nicolas-dessaigne
+          - generic [ref=e413]:
+            - generic [ref=e414]:
+              - generic [ref=e415]: Nicolas Dessaigne
+              - generic [ref=e416]: Algolia, W14
+            - paragraph [ref=e417]: Co-founder of Algolia, a Search API used by millions of developers. PhD in Computer Science.
+        - link "Tom Blomfield GoCardless, S11 Co-founder of Monzo (£500M raised, 10% UK population). Founded GoCardless. Awarded OBE in 2019." [ref=e419] [cursor=pointer]:
+          - /url: /people/tom-blomfield
+          - generic [ref=e424]:
+            - generic [ref=e425]:
+              - generic [ref=e426]: Tom Blomfield
+              - generic [ref=e427]: GoCardless, S11
+            - paragraph [ref=e428]: Co-founder of Monzo (£500M raised, 10% UK population). Founded GoCardless. Awarded OBE in 2019.
+        - link "Brad Flora Perfect Audience, S11 Co-founder and CEO of Perfect Audience (acquired by Marin Software). Active angel investor and Slate contributor." [ref=e430] [cursor=pointer]:
+          - /url: /people/brad-flora
+          - generic [ref=e435]:
+            - generic [ref=e436]:
+              - generic [ref=e437]: Brad Flora
+              - generic [ref=e438]: Perfect Audience, S11
+            - paragraph [ref=e439]: Co-founder and CEO of Perfect Audience (acquired by Marin Software). Active angel investor and Slate contributor.
+        - link "Pete Koomen Optimizely, W10 Co-founder of Optimizely, grew to $100M+ ARR before acquisition. Master’s in CS from UIUC." [ref=e441] [cursor=pointer]:
+          - /url: /people/pete-koomen
+          - generic [ref=e446]:
+            - generic [ref=e447]:
+              - generic [ref=e448]: Pete Koomen
+              - generic [ref=e449]: Optimizely, W10
+            - paragraph [ref=e450]: Co-founder of Optimizely, grew to $100M+ ARR before acquisition. Master’s in CS from UIUC.
+        - link "Ankit Gupta Reverie Labs, W18 Co-founder and CTO of Reverie Labs (acquired by Ginkgo Bioworks). Deep learning researcher in language, vision, and biology." [ref=e452] [cursor=pointer]:
+          - /url: /people/ankit-gupta
+          - generic [ref=e457]:
+            - generic [ref=e458]:
+              - generic [ref=e459]: Ankit Gupta
+              - generic [ref=e460]: Reverie Labs, W18
+            - paragraph [ref=e461]: Co-founder and CTO of Reverie Labs (acquired by Ginkgo Bioworks). Deep learning researcher in language, vision, and biology.
+        - link "Tyler Bosmeny Clever, S12 Co-founder and CEO of Clever (acquired for $500M). Used by 60% of US students." [ref=e463] [cursor=pointer]:
+          - /url: /people/tyler-bosmeny
+          - generic [ref=e468]:
+            - generic [ref=e469]:
+              - generic [ref=e470]: Tyler Bosmeny
+              - generic [ref=e471]: Clever, S12
+            - paragraph [ref=e472]: Co-founder and CEO of Clever (acquired for $500M). Used by 60% of US students.
+        - link "David Lieb Bump, S09 Co-founder and CEO of Bump (150M+ users, acquired by Google). Co-founder of Google Photos (1B+ users)." [ref=e474] [cursor=pointer]:
+          - /url: /people/david-lieb
+          - generic [ref=e479]:
+            - generic [ref=e480]:
+              - generic [ref=e481]: David Lieb
+              - generic [ref=e482]: Bump, S09
+            - paragraph [ref=e483]: Co-founder and CEO of Bump (150M+ users, acquired by Google). Co-founder of Google Photos (1B+ users).
+        - link "Andrew Miklas PagerDuty, S10 Co-founder & CTO of PagerDuty (NYSE:PD), the first incident management platform and used by half of the Fortune 500. University of Waterloo & Toronto grad." [ref=e485] [cursor=pointer]:
+          - /url: /people/andrew-miklas
+          - generic [ref=e490]:
+            - generic [ref=e491]:
+              - generic [ref=e492]: Andrew Miklas
+              - generic [ref=e493]: PagerDuty, S10
+            - paragraph [ref=e494]: Co-founder & CTO of PagerDuty (NYSE:PD), the first incident management platform and used by half of the Fortune 500. University of Waterloo & Toronto grad.
+        - link "Harshita Arora AtoB, S20 Co-founder of AtoB, a fintech startup worth $800M. Moved from India to SF on an O-1 visa at 16 y/o." [ref=e496] [cursor=pointer]:
+          - /url: /people/harshita-arora
+          - generic [ref=e501]:
+            - generic [ref=e502]:
+              - generic [ref=e503]: Harshita Arora
+              - generic [ref=e504]: AtoB, S20
+            - paragraph [ref=e505]: Co-founder of AtoB, a fintech startup worth $800M. Moved from India to SF on an O-1 visa at 16 y/o.
+        - link "Jon Xu FutureAdvisor, S10 Co-founder and CTO of FutureAdvisor (acquired by BlackRock). Built robo-advisor platform for financial institutions. MIT EECS grad." [ref=e507] [cursor=pointer]:
+          - /url: /people/jon-xu
+          - generic [ref=e512]:
+            - generic [ref=e513]:
+              - generic [ref=e514]: Jon Xu
+              - generic [ref=e515]: FutureAdvisor, S10
+            - paragraph [ref=e516]: Co-founder and CTO of FutureAdvisor (acquired by BlackRock). Built robo-advisor platform for financial institutions. MIT EECS grad.
+        - link "Chris Golda BackType, S08 Co-founder and CEO of BackType (acquired by Twitter). Launched Twitter’s Ad Center, growing revenue to over $1B." [ref=e518] [cursor=pointer]:
+          - /url: /people/christopher-golda
+          - generic [ref=e523]:
+            - generic [ref=e524]:
+              - generic [ref=e525]: Chris Golda
+              - generic [ref=e526]: BackType, S08
+            - paragraph [ref=e527]: Co-founder and CEO of BackType (acquired by Twitter). Launched Twitter’s Ad Center, growing revenue to over $1B.
+        - link "Grey Baker Pincites, S23 Co-founder of Pincites (acquired by Filevine). Previously co-founded Dependabot (acquired by GitHub) and led product and engineering at GoCardless." [ref=e529] [cursor=pointer]:
+          - /url: /people/grey-baker
+          - generic [ref=e534]:
+            - generic [ref=e535]:
+              - generic [ref=e536]: Grey Baker
+              - generic [ref=e537]: Pincites, S23
+            - paragraph [ref=e538]: Co-founder of Pincites (acquired by Filevine). Previously co-founded Dependabot (acquired by GitHub) and led product and engineering at GoCardless.
+    - generic [ref=e539]:
+      - heading "Knowledge & News" [level=2] [ref=e540]
+      - text: ▶ ▶ ▶ ▶
+      - generic [ref=e541]:
+        - generic [ref=e542]:
+          - article [ref=e543]:
+            - link [ref=e544] [cursor=pointer]:
+              - /url: https://www.ycombinator.com/library/MW-andrej-karpathy-software-is-changing-again
+              - generic [ref=e545]:
+                - img "Karpathy on AI" [ref=e546]
+                - text: ▶
+              - 'heading "Andrej Karpathy: Software Is Changing (Again)" [level=3] [ref=e547]'
+          - article [ref=e548]:
+            - link [ref=e549] [cursor=pointer]:
+              - /url: https://www.ycombinator.com/library/Lp-how-to-build-the-future-sam-altman
+              - generic [ref=e550]:
+                - img "How to Build the Future" [ref=e551]
+                - text: ▶
+              - 'heading "How To Build The Future: Sam Altman" [level=3] [ref=e552]'
+          - article [ref=e553]:
+            - link [ref=e554] [cursor=pointer]:
+              - /url: https://www.ycombinator.com/library/N2-yc-partners-answer-your-questions-office-hours
+              - generic [ref=e555]:
+                - img "Office Hours Series" [ref=e556]
+                - text: ▶
+              - heading "YC Partners Answer Your Questions" [level=3] [ref=e557]
+        - article [ref=e559]:
+          - link "World Models, Explained ▶ Video World Models, Explained Why do even our best AI models need tens of thousands of examples to learn skills that a human picks up in a handful of tries? Solving this problem is one of the great open challenges in modern AI. World models, which give AI an internal simulation of its environment, are one of the most promising paths forward." [ref=e560] [cursor=pointer]:
+            - /url: https://www.ycombinator.com/library/Sm-world-models-explained
+            - generic [ref=e561]:
+              - img "World Models, Explained" [ref=e562]
+              - text: ▶
+            - generic [ref=e563]:
+              - generic [ref=e564]: Video
+              - heading "World Models, Explained" [level=2] [ref=e565]
+              - paragraph [ref=e566]: Why do even our best AI models need tens of thousands of examples to learn skills that a human picks up in a handful of tries? Solving this problem is one of the great open challenges in modern AI. World models, which give AI an internal simulation of its environment, are one of the most promising paths forward.
+        - complementary [ref=e567]:
+          - generic [ref=e568]:
+            - heading [level=4] [ref=e569]:
+              - emphasis [ref=e570]: Startup News
+            - link "Indian AI coding startup Emergent becomes a unicorn with $130M Series C | TechCrunch ›" [ref=e571] [cursor=pointer]:
+              - /url: https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/
+              - paragraph [ref=e572]:
+                - text: Indian AI coding startup Emergent becomes a unicorn with $130M Series C | TechCrunch
+                - generic [ref=e573]: ›
+            - link "Interceptor Startup Singularity Emerges from Stealth with an $80M Series A at a $400M Valuation ›" [ref=e574] [cursor=pointer]:
+              - /url: https://www.tectonicdefense.com/interceptor-startup-singularity-emerges-from-stealth-with-an-80m-series-a-at-a-400m-valuation/
+              - paragraph [ref=e575]:
+                - text: Interceptor Startup Singularity Emerges from Stealth with an $80M Series A at a $400M Valuation
+                - generic [ref=e576]: ›
+            - link "US military demonstrates latest 3d printing and unmanned vehicle technologies ›" [ref=e577] [cursor=pointer]:
+              - /url: https://www.voachinese.com/a/us-military-demonstrates-latest-3d-printing-and-unmanned-vehicle-technologies-20260711/8170621.html
+              - paragraph [ref=e578]:
+                - text: US military demonstrates latest 3d printing and unmanned vehicle technologies
+                - generic [ref=e579]: ›
+            - link "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users | TechCrunch ›" [ref=e580] [cursor=pointer]:
+              - /url: https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/
+              - paragraph [ref=e581]:
+                - text: Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users | TechCrunch
+                - generic [ref=e582]: ›
+            - 'link "Exclusive: Fleek, an online market for vintage garment wholesalers, raises $25 million in funding | Fortune ›" [ref=e583] [cursor=pointer]':
+              - /url: https://fortune.com/2026/07/08/fleek-an-online-marketplace-connecting-vintage-clothing-wholesalers-and-retailers-raises-25-million-in-new-funding/
+              - paragraph [ref=e584]:
+                - text: "Exclusive: Fleek, an online market for vintage garment wholesalers, raises $25 million in funding | Fortune"
+                - generic [ref=e585]: ›
+          - generic [ref=e586]:
+            - heading [level=4] [ref=e587]:
+              - emphasis [ref=e588]: Paul Graham Essays
+            - link "Default Alive or Default Dead ›" [ref=e589] [cursor=pointer]:
+              - /url: https://www.paulgraham.com/aord.html
+              - paragraph [ref=e590]:
+                - text: Default Alive or Default Dead
+                - generic [ref=e591]: ›
+            - link "Do Things that Don’t Scale ›" [ref=e592] [cursor=pointer]:
+              - /url: https://www.paulgraham.com/ds.html
+              - paragraph [ref=e593]:
+                - text: Do Things that Don’t Scale
+                - generic [ref=e594]: ›
+            - link "Be Relentlessly Resourceful ›" [ref=e595] [cursor=pointer]:
+              - /url: https://www.paulgraham.com/relres.html
+              - paragraph [ref=e596]:
+                - text: Be Relentlessly Resourceful
+                - generic [ref=e597]: ›
+            - link "How to Get Startup Ideas ›" [ref=e598] [cursor=pointer]:
+              - /url: http://www.paulgraham.com/startupideas.html
+              - paragraph [ref=e599]:
+                - text: How to Get Startup Ideas
+                - generic [ref=e600]: ›
+            - link "Startup = Growth ›" [ref=e601] [cursor=pointer]:
+              - /url: http://www.paulgraham.com/growth.html
+              - paragraph [ref=e602]:
+                - text: Startup = Growth
+                - generic [ref=e603]: ›
+    - generic [ref=e605]:
+      - generic [ref=e606]:
+        - generic [ref=e607]: It's never too early to apply.
+        - paragraph [ref=e608]: We fund companies with no revenue, product, or fully baked idea.
+      - link "Apply" [ref=e610] [cursor=pointer]:
+        - /url: /apply
+      - generic [ref=e611]:
+        - img "Founder" [ref=e612]
+        - img "Founder" [ref=e613]
+        - img "Founder" [ref=e614]
+        - img "Founder" [ref=e615]
+        - img "Founder" [ref=e616]
+  - contentinfo [ref=e617]:
+    - heading "Footer" [level=2] [ref=e618]
+    - generic [ref=e619]:
+      - generic [ref=e620]:
+        - generic [ref=e622]:
+          - link "Y Combinator Y Combinator" [ref=e623] [cursor=pointer]:
+            - /url: /
+            - generic [ref=e624]: Y Combinator
+            - img "Y Combinator" [ref=e625]
+          - heading "Make something people want." [level=3] [ref=e626]
+        - generic [ref=e627]:
+          - generic [ref=e628]:
+            - heading "Programs" [level=3] [ref=e629]
+            - list [ref=e630]:
+              - listitem [ref=e631]:
+                - link "YC Program" [ref=e632] [cursor=pointer]:
+                  - /url: /about
+              - listitem [ref=e633]:
+                - link "Startup School" [ref=e634] [cursor=pointer]:
+                  - /url: https://startupschool.org
+              - listitem [ref=e635]:
+                - link "Work at a Startup" [ref=e636] [cursor=pointer]:
+                  - /url: /jobs
+              - listitem [ref=e637]:
+                - link "Co-Founder Matching" [ref=e638] [cursor=pointer]:
+                  - /url: /cofounder-matching
+          - generic [ref=e639]:
+            - heading "Resources" [level=3] [ref=e640]
+            - list [ref=e641]:
+              - listitem [ref=e642]:
+                - link "Startup Directory" [ref=e643] [cursor=pointer]:
+                  - /url: /companies
+              - listitem [ref=e644]:
+                - link "Startup Library" [ref=e645] [cursor=pointer]:
+                  - /url: /library
+              - listitem [ref=e646]:
+                - link "Investors" [ref=e647] [cursor=pointer]:
+                  - /url: /investors
+              - listitem [ref=e648]:
+                - link "Demo Day" [ref=e649] [cursor=pointer]:
+                  - /url: /demoday
+              - listitem [ref=e650]:
+                - link "Safe" [ref=e651] [cursor=pointer]:
+                  - /url: /documents
+              - listitem [ref=e652]:
+                - link "Hacker News" [ref=e653] [cursor=pointer]:
+                  - /url: https://news.ycombinator.com/
+              - listitem [ref=e654]:
+                - link "Launch YC" [ref=e655] [cursor=pointer]:
+                  - /url: /launches
+              - listitem [ref=e656]:
+                - link "YC Deals" [ref=e657] [cursor=pointer]:
+                  - /url: https://deals.ycombinator.com
+          - generic [ref=e658]:
+            - heading "Company" [level=3] [ref=e659]
+            - list [ref=e660]:
+              - listitem [ref=e661]:
+                - link "YC Blog" [ref=e662] [cursor=pointer]:
+                  - /url: /blog
+              - listitem [ref=e663]:
+                - link "Contact" [ref=e664] [cursor=pointer]:
+                  - /url: /contact
+              - listitem [ref=e665]:
+                - link "Press" [ref=e666] [cursor=pointer]:
+                  - /url: /press
+              - listitem [ref=e667]:
+                - link "People" [ref=e668] [cursor=pointer]:
+                  - /url: /people
+              - listitem [ref=e669]:
+                - link "Careers" [ref=e670] [cursor=pointer]:
+                  - /url: /software
+              - listitem [ref=e671]:
+                - link "Privacy Policy" [ref=e672] [cursor=pointer]:
+                  - /url: /legal#privacy
+              - listitem [ref=e673]:
+                - link "Notice at Collection" [ref=e674] [cursor=pointer]:
+                  - /url: /legal#notice-at-collection
+              - listitem [ref=e675]:
+                - link "Security" [ref=e676] [cursor=pointer]:
+                  - /url: /security
+              - listitem [ref=e677]:
+                - link "Terms of Use" [ref=e678] [cursor=pointer]:
+                  - /url: /legal#tou
+      - generic [ref=e679]:
+        - generic [ref=e680]:
+          - link "Twitter" [ref=e681] [cursor=pointer]:
+            - /url: https://twitter.com/ycombinator
+          - link "Facebook" [ref=e685] [cursor=pointer]:
+            - /url: https://www.facebook.com/YCombinator/
+          - link "Instagram" [ref=e689] [cursor=pointer]:
+            - /url: https://www.instagram.com/ycombinator
+          - link "LinkedIn" [ref=e693] [cursor=pointer]:
+            - /url: https://www.linkedin.com/school/y-combinator/
+          - link "Youtube" [ref=e697] [cursor=pointer]:
+            - /url: https://www.youtube.com/c/ycombinator
+        - paragraph [ref=e701]: © 2026 Y Combinator
