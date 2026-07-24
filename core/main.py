@@ -1,6 +1,6 @@
 from openai import OpenAI
 from dotenv import load_dotenv
-from tools import tools, weird_add, fake_weather_api
+from core.tools import tools, weird_add, fake_weather_api
 import json
 import gradio as gr
 from rich import print

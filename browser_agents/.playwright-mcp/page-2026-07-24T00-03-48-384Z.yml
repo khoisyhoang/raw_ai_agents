@@ -1,0 +1,256 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#content"
+  - banner [ref=e3]:
+    - generic [ref=e7]:
+      - link [ref=e10] [cursor=pointer]:
+        - /url: https://cintrifusecapital.com
+        - img "Cintifuse Capital Logo" [ref=e11]
+      - button "Menu Toggle" [ref=e15] [cursor=pointer]
+  - generic [ref=e18]:
+    - generic [ref=e20]:
+      - heading "We back high-growth Cincinnati startups and invest in national venture capital funds to drive local impact and returns." [level=1] [ref=e23]
+      - link "How we do it" [ref=e27] [cursor=pointer]:
+        - /url: https://cintrifusecapital.com/our-approach/direct-investments/#support
+    - generic [ref=e42]:
+      - generic [ref=e46]: LunchTable
+      - generic [ref=e51]: Narratize
+      - generic [ref=e56]: Vixiv
+      - generic [ref=e61]: Soundtrace
+    - generic [ref=e79]:
+      - img "Eco Mercantile Corporation" [ref=e81]
+      - img "FeenX" [ref=e83]
+      - img "RiffPay" [ref=e85]
+      - img "InstantQuote" [ref=e87]
+      - img "Sprints" [ref=e89]
+      - img "Simbryo" [ref=e91]
+      - img "Level 6 Cybersecurity" [ref=e93]
+      - img "SG Labs Inc." [ref=e95]
+      - img "HEDY" [ref=e97]
+      - img "Kernel" [ref=e99]
+      - img "Pantomath" [ref=e101]
+      - img "Trovio" [ref=e103]
+      - img "PropIQ" [ref=e105]
+      - img "Privaclave" [ref=e107]
+      - img "planeKrafty" [ref=e109]
+      - img "Obai" [ref=e111]
+      - img "Noshable" [ref=e113]
+      - img "Nexus Lab" [ref=e115]
+      - img "Mimbbo" [ref=e117]
+      - img "Lyceum" [ref=e119]
+      - img "LiverRight" [ref=e121]
+      - img "Lasoh" [ref=e123]
+      - img "Illume" [ref=e125]
+      - img "Holm.site" [ref=e127]
+      - img "Ellequate" [ref=e129]
+      - img "Airtrek Robotics" [ref=e131]
+      - img "Livegistics" [ref=e133]
+      - img "Payload" [ref=e135]
+      - img "Fixle" [ref=e137]
+      - img "Flamel.ai" [ref=e139]
+      - img "Healent" [ref=e141]
+      - img "FinOpsly" [ref=e143]
+      - img "Tembo" [ref=e145]
+      - img "BeyondWill" [ref=e147]
+      - img "Pieces" [ref=e149]
+      - img "PictureHealth" [ref=e151]
+      - img "LunchTable" [ref=e153]
+      - img "Clean Age" [ref=e155]
+      - img "pay theory" [ref=e157]
+      - img "Vixiv" [ref=e159]
+      - img "Soundtrace" [ref=e161]
+      - img "Nichefire" [ref=e163]
+      - img "Narratize" [ref=e165]
+      - img "Cloverleaf" [ref=e167]
+      - img "Eco Mercantile Corporation" [ref=e169]
+      - img "FeenX" [ref=e171]
+      - img "RiffPay" [ref=e173]
+      - img "InstantQuote" [ref=e175]
+      - img "Sprints" [ref=e177]
+      - img "Simbryo" [ref=e179]
+      - img "Level 6 Cybersecurity" [ref=e181]
+      - img "SG Labs Inc." [ref=e183]
+      - img "HEDY" [ref=e185]
+      - img "Kernel" [ref=e187]
+      - img "Pantomath" [ref=e189]
+      - img "Trovio" [ref=e191]
+      - img "PropIQ" [ref=e193]
+      - img "Privaclave" [ref=e195]
+      - img "planeKrafty" [ref=e197]
+      - img "Obai" [ref=e199]
+      - img "Noshable" [ref=e201]
+      - img "Nexus Lab" [ref=e203]
+      - img "Mimbbo" [ref=e205]
+      - img "Lyceum" [ref=e207]
+      - img "LiverRight" [ref=e209]
+      - img "Lasoh" [ref=e211]
+      - img "Illume" [ref=e213]
+      - img "Holm.site" [ref=e215]
+      - img "Ellequate" [ref=e217]
+      - img "Airtrek Robotics" [ref=e219]
+      - img "Livegistics" [ref=e221]
+      - img "Payload" [ref=e223]
+      - img "Fixle" [ref=e225]
+      - img "Flamel.ai" [ref=e227]
+      - img "Healent" [ref=e229]
+      - img "FinOpsly" [ref=e231]
+      - img "Tembo" [ref=e233]
+      - img "BeyondWill" [ref=e235]
+      - img "Pieces" [ref=e237]
+      - img "PictureHealth" [ref=e239]
+      - img "LunchTable" [ref=e241]
+      - img "Clean Age" [ref=e243]
+      - img "pay theory" [ref=e245]
+      - img "Vixiv" [ref=e247]
+      - img "Soundtrace" [ref=e249]
+      - img "Nichefire" [ref=e251]
+      - img "Narratize" [ref=e253]
+      - img "Cloverleaf" [ref=e255]
+      - img "Eco Mercantile Corporation" [ref=e257]
+      - img "FeenX" [ref=e259]
+      - img "RiffPay" [ref=e261]
+      - img "InstantQuote" [ref=e263]
+      - img "Sprints" [ref=e265]
+      - img "Simbryo" [ref=e267]
+      - img "Level 6 Cybersecurity" [ref=e269]
+      - img "SG Labs Inc." [ref=e271]
+      - img "HEDY" [ref=e273]
+      - img "Kernel" [ref=e275]
+      - img "Pantomath" [ref=e277]
+      - img "Trovio" [ref=e279]
+      - img "PropIQ" [ref=e281]
+      - img "Privaclave" [ref=e283]
+      - img "planeKrafty" [ref=e285]
+      - img "Obai" [ref=e287]
+      - img "Noshable" [ref=e289]
+      - img "Nexus Lab" [ref=e291]
+      - img "Mimbbo" [ref=e293]
+      - img "Lyceum" [ref=e295]
+      - img "LiverRight" [ref=e297]
+      - img "Lasoh" [ref=e299]
+      - img "Illume" [ref=e301]
+      - img "Holm.site" [ref=e303]
+      - img "Ellequate" [ref=e305]
+      - img "Airtrek Robotics" [ref=e307]
+      - img "Livegistics" [ref=e309]
+      - img "Payload" [ref=e311]
+      - img "Fixle" [ref=e313]
+      - img "Flamel.ai" [ref=e315]
+      - img "Healent" [ref=e317]
+      - img "FinOpsly" [ref=e319]
+      - img "Tembo" [ref=e321]
+      - img "BeyondWill" [ref=e323]
+      - img "Pieces" [ref=e325]
+      - img "PictureHealth" [ref=e327]
+      - img "LunchTable" [ref=e329]
+      - img "Clean Age" [ref=e331]
+      - img "pay theory" [ref=e333]
+      - img "Vixiv" [ref=e335]
+      - img "Soundtrace" [ref=e337]
+      - img "Nichefire" [ref=e339]
+      - img "Narratize" [ref=e341]
+      - img "Cloverleaf" [ref=e343]
+      - img "Eco Mercantile Corporation" [ref=e345]
+      - img "FeenX" [ref=e347]
+      - img "RiffPay" [ref=e349]
+      - img "InstantQuote" [ref=e351]
+      - img "Sprints" [ref=e353]
+      - img "Simbryo" [ref=e355]
+      - img "Level 6 Cybersecurity" [ref=e357]
+      - img "SG Labs Inc." [ref=e359]
+      - img "HEDY" [ref=e361]
+      - img "Kernel" [ref=e363]
+      - img "Pantomath" [ref=e365]
+      - img "Trovio" [ref=e367]
+      - img "PropIQ" [ref=e369]
+      - img "Privaclave" [ref=e371]
+      - img "planeKrafty" [ref=e373]
+      - img "Obai" [ref=e375]
+      - img "Noshable" [ref=e377]
+      - img "Nexus Lab" [ref=e379]
+      - img "Mimbbo" [ref=e381]
+      - img "Lyceum" [ref=e383]
+      - img "LiverRight" [ref=e385]
+      - img "Lasoh" [ref=e387]
+      - img "Illume" [ref=e389]
+      - img "Holm.site" [ref=e391]
+      - img "Ellequate" [ref=e393]
+      - img "Airtrek Robotics" [ref=e395]
+      - img "Livegistics" [ref=e397]
+      - img "Payload" [ref=e399]
+      - img "Fixle" [ref=e401]
+      - img "Flamel.ai" [ref=e403]
+      - img "Healent" [ref=e405]
+      - img "FinOpsly" [ref=e407]
+      - img "Tembo" [ref=e409]
+      - img "BeyondWill" [ref=e411]
+      - img "Pieces" [ref=e413]
+      - img "PictureHealth" [ref=e415]
+      - img "LunchTable" [ref=e417]
+      - img "Clean Age" [ref=e419]
+      - img "pay theory" [ref=e421]
+      - img "Vixiv" [ref=e423]
+      - img "Soundtrace" [ref=e425]
+      - img "Nichefire" [ref=e427]
+      - img "Narratize" [ref=e429]
+      - img "Cloverleaf" [ref=e431]
+    - generic [ref=e435]:
+      - generic [ref=e437]:
+        - generic [ref=e438]: Our Approach
+        - heading "Cintrifuse Capital goes beyond the traditional investment model." [level=2] [ref=e442]
+        - paragraph [ref=e445]: At Cintrifuse Capital, we’re helping to drive big outcomes for the Cincinnati region through our direct investment strategy, the tailored support we provide our portfolio companies, and through our investments in venture funds around the country. We provide Cincinnati startups with unparalleled access to capital and talent, and drive venture dollars and innovation from around the country into our backyard.
+        - link "Learn More" [ref=e449] [cursor=pointer]:
+          - /url: https://cintrifusecapital.com/our-approach/
+      - generic [ref=e457]:
+        - link [ref=e458] [cursor=pointer]:
+          - /url: /our-approach/direct-investments/
+          - heading "Direct investment into local startups" [level=4] [ref=e471]
+        - link [ref=e479] [cursor=pointer]:
+          - /url: /our-approach/direct-investments/
+          - heading "Activating a local network of angel investors" [level=4] [ref=e489]
+        - link [ref=e497] [cursor=pointer]:
+          - /url: /our-approach/fund-of-funds/
+          - heading "Fund of Funds investments" [level=4] [ref=e512]
+        - link [ref=e520] [cursor=pointer]:
+          - /url: https://cintrifusecapital.com/portfolio-company-resources/
+          - heading "Portfolio company support" [level=4] [ref=e536]
+    - generic [ref=e552]:
+      - heading "Our team is committed to improving outcomes for Cincinnati startups." [level=2] [ref=e555]
+      - link "Learn more" [ref=e563] [cursor=pointer]:
+        - /url: https://cintrifusecapital.com/team/
+  - contentinfo [ref=e566]:
+    - generic [ref=e568]:
+      - generic [ref=e569]:
+        - link [ref=e572] [cursor=pointer]:
+          - /url: https://cintrifusecapital.com
+          - img "Cintrifuse Capital logo" [ref=e573]
+        - generic [ref=e574]:
+          - navigation "Menu" [ref=e577]:
+            - list [ref=e578]:
+              - listitem [ref=e579]:
+                - link "Portfolio Company Resources" [ref=e580] [cursor=pointer]:
+                  - /url: https://cintrifusecapital.com/portfolio-company-resources/
+              - listitem [ref=e581]:
+                - link "Team" [ref=e582] [cursor=pointer]:
+                  - /url: https://cintrifusecapital.com/team/
+              - listitem [ref=e583]:
+                - link "Contact" [ref=e584] [cursor=pointer]:
+                  - /url: https://cintrifusecapital.com/contact/
+              - listitem [ref=e585]:
+                - link "Legal" [ref=e586] [cursor=pointer]:
+                  - /url: https://cintrifusecapital.com/legal/
+          - generic [ref=e587]:
+            - heading [level=4] [ref=e591]:
+              - link "Contact" [ref=e592] [cursor=pointer]:
+                - /url: https://cintrifusecapital.com/contact/
+            - link "Linkedin-in" [ref=e597] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/cintrifuse-capital
+      - generic [ref=e606]:
+        - paragraph [ref=e609]: This site is for informational purposes only.
+        - paragraph [ref=e612]:
+          - text: No offer of securities. No information on this site should be construed as a solicitation, offer, recommendation, representation of suitability or endorsement of any security or investment. Offerings of securities are made only by prospectus, private placement memorandum, offering memorandum or offering circular distributed by persons authorized by Cintrifuse Capital. For additional information about the firm, including our Form ADV Part 2A and any relevant conflicts of interest that may exist, please visit
+          - link "https://adviserinfo.sec.gov/" [ref=e613] [cursor=pointer]:
+            - /url: https://adviserinfo.sec.gov/
+          - text: "or contact us at: (513) 246-2706. © Cintrifuse Capital 2025"
+        - paragraph [ref=e616]: © Cintrifuse Capital 2025
+  - generic [ref=e617]: tablet
